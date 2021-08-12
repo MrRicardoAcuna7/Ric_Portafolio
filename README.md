@@ -3,7 +3,7 @@
 Portafolio containing projects in Python,SQL and KDB
 
 # [Project 1: Internal API](https://github.com/MrRicardoAcuna7/local_API_server)
-Simple proyect that create all methods for REST API into a simple product table in JSON.
+Simple proyect that create all methods for REST API into a simple product table in JSON.  
 
 Create a http handler return all messages through a JSON coder.  
 Call methods(POST,PUT,DELETE) to declare function.  
@@ -19,4 +19,4 @@ Analyze economic impact in important metrics(HDI and GDP)
 Create a Power BI template with videogames data.  
 Analyze videogame sales through different ways.  
 Analyze sales through all years to analyze any trend.  
-![alt text](https://github.com/MrRicardoAcuna7/Ric_Portafolio/blob/main/Videogame.PNG)
+![alt text](Videogame.PNG)
