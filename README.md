@@ -2,7 +2,7 @@
 
 Portafolio containing proyects in Python,SQL and KDB
 
-[#Proyect 1. Internal API](https://github.com/MrRicardoAcuna7/local_API_server)
+[#Proyect 1: Internal API](https://github.com/MrRicardoAcuna7/local_API_server)
 
 Create a http handler return all messages through a JSON coder.
 
