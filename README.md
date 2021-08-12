@@ -19,3 +19,4 @@ Analyze economic impact in important metrics(HDI and GDP)
 Create a Power BI template with videogames data.
 Analyze videogame sales through different ways.
 Analyze sales through all years to analyze any trend.
+![alt text](https://github.com/MrRicardoAcuna7/Ric_Portafolio/blob/main/Videogame.PNG)
