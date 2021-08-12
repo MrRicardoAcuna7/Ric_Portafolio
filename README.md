@@ -1,9 +1,9 @@
 # Ricardo's Portafolio - Data Analyst portafolio
 
-Portafolio containing projects in Python,SQL and KDB
+Portafolio containing projects in Python, SQL, KDB and Power Bi.
 
 # [Project 1: Internal API](https://github.com/MrRicardoAcuna7/local_API_server)
-Simple proyect that create all methods for REST API into a simple product table in JSON.  
+Simple project in python using Flask library, that create all methods for REST API using a product table as json format.  
 
 Create a http handler return all messages through a JSON coder.  
 Call methods(POST,PUT,DELETE) to declare function.  
