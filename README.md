@@ -13,6 +13,7 @@ Set up the server connection in some local port.
 Create a Power BI template with covid data from october 2020.
 Analyze trend cases vs total death in Nicaragua and global.
 Analyze economic impact in important metrics(HDI and GDP)
+![alt text](https://github.com/MrRicardoAcuna7/Ric_Portafolio/blob/main/Covid.PNG)
 
 # [Project 3: Videogame - Sales Trends](https://github.com/MrRicardoAcuna7/PowerBIProjects)
 Create a Power BI template with videogames data.
