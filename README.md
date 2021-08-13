@@ -11,9 +11,9 @@ Set up the server connection in some local port.
 
 # [Project 2: Web Scraping Yahoo Finance using Python](https://github.com/MrRicardoAcuna7/WebScraping_Finance_Apple)
 Get data from yahoo finance using python library scrapy, through xpath expressions.  
-Extract most import economic metrics of Apple getting date for this extraction.
-Export output to csv file.
-![alt text](https://github.com/MrRicardoAcuna7/WebScraping_Finance_Apple/blob/master/Yahoo_Apple.jpg)
+Extract most import economic metrics of Apple getting date for this extraction.  
+Export output to csv file.  
+![alt text](Yahoo_Apple.jpg)  
 
 # [Project 3: Covid Dashboard](https://github.com/MrRicardoAcuna7/PowerBIProjects)
 Create a Power BI template with covid data from october 2020.  
