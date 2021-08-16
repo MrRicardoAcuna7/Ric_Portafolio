@@ -16,24 +16,30 @@ Analyze videogame sales data from csv to kdb q+ language and visualize result
 # [Project 2: Internal API](https://github.com/MrRicardoAcuna7/local_API_server)
 Simple project in python using Flask library, that create all methods for REST API using a product table as json format.  
 
-Create a http handler return all messages through a JSON coder.  
-Call methods(POST,PUT,DELETE) to declare function.  
-Set up the server connection in some local port.  
+1. Create a http handler return all messages through a JSON coder.  
+2. Call methods(POST,PUT,DELETE) to declare function.  
+3. Set up the server connection in some local port.  
 
 # [Project 3: Web Scraping Yahoo Finance using Python](https://github.com/MrRicardoAcuna7/WebScraping_Finance_Apple)
-Get data from yahoo finance using python library scrapy, through xpath expressions.  
-Extract most import economic metrics of Apple getting date for this extraction.  
-Export output to csv file.  
+1. Get data from yahoo finance using python library scrapy, through xpath expressions.  
+2. Extract most import economic metrics of Apple getting date for this extraction.  
+3. Export output to csv file.  
 ![alt text](Yahoo_Apple.jpg)  
 
 # [Project 4: Covid Dashboard](https://github.com/MrRicardoAcuna7/PowerBIProjects)
-Create a Power BI template with covid data from october 2020.  
-Analyze trend cases vs total death in Nicaragua and global.  
-Analyze economic impact in important metrics(HDI and GDP)  
+1. Create a Power BI template with covid data from october 2020.  
+2. Analyze trend cases vs total death in Nicaragua and global.  
+3. Analyze economic impact in important metrics(HDI and GDP)  
 ![alt text](Covid.PNG)
 
 # [Project 5: Videogame - Sales Trends](https://github.com/MrRicardoAcuna7/PowerBIProjects)
-Create a Power BI template with videogames data.  
-Analyze videogame sales through different ways.  
-Analyze sales through all years to analyze any trend.  
-![alt text](Videogame.PNG)
+1. Create a Power BI template with videogames data.  
+2. Analyze videogame sales through different ways.  
+3. Analyze sales through all years to analyze any trend.  
+![alt text](Videogame.PNG)  
+
+# [Project 6: AdventureWorks Data Base SQL - Analysis](https://github.com/MrRicardoAcuna7/AdventureWorks2019DB_SQL_Analysis)
+1. Download and restore database in sql server management.  
+2. Create a temp table that store a clean dataset.  
+3. Get values by different fields.  
+
