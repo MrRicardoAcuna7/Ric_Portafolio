@@ -21,7 +21,7 @@ Simple project in python using Flask library, that create all methods for REST A
 3. Set up the server connection in some local port.  
 
 # [Project 3: Web Scraping Yahoo Finance using Python](https://github.com/MrRicardoAcuna7/WebScraping_Finance_Apple)
-1. Get data from yahoo finance using python library scrapy, through xpath expressions.  
+1. Get data from yahoo finance using python Framework scrapy, through xpath expressions.  
 2. Extract most import economic metrics of Apple getting date for this extraction.  
 3. Export output to csv file.  
 ![alt text](Yahoo_Apple.jpg)  
