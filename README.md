@@ -51,3 +51,9 @@ Simple project in python using Flask library, that create all methods for REST A
 2. Create a temp table that store a clean dataset.  
 3. Get values by different fields.  
 
+# [Project 8: KDB IPC - Read from sql connection and get output tables through an ipc connection](https://github.com/MrRicardoAcuna7/KDB-QIPC)
+1. Open KDB ODBC connection usind DSN and call query.  
+2. Set up kdb messages and permissions for ipc.  
+3. Create the function to be called.
+4. In the client side, make async call and get that output into kdb table in a local folder.   
+
