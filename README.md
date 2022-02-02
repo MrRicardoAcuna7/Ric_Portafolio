@@ -1,4 +1,4 @@
-# Ricardo's Portfolio - Data Analyst portfolio
+# Ricardo's Portfolio - Data Engineer | Data Analyst portfolio
 
 Portfolio containing projects in Python, SQL, KDB+/Q and Power Bi.
 
