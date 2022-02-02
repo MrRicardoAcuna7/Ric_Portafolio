@@ -28,9 +28,9 @@ This is a API done using Flask and Postgres, the example is for communicating yo
 2. Create the meta for the new table that would store the data and using SQLAlchemy create_all() would create it.
 3. Create for each method a function to read the input and push to postgres. The endpoint should be localhost:5000/accounts for post.
 4. Test it with postman sending one try in json format.
-![alt text](https://github.com/MrRicardoAcuna7/API_Postgres_Flask/blob/main/postman_snapshot.PNG)
+![alt text](postman_snapshot.PNG)
 6. Query that table in postgres.
-![alt text](https://github.com/MrRicardoAcuna7/API_Postgres_Flask/blob/main/postgres_snapshot.PNG) 
+![alt text](postgres_snapshot.PNG) 
 
 # [Project 4: API that connect with local json file](https://github.com/MrRicardoAcuna7/local_API_server)
 Simple project in python using Flask library, that create all methods for REST API using a product table as json format.  
