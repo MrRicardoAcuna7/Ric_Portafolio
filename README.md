@@ -74,3 +74,9 @@ Simple project in python using Flask library, that create all methods for REST A
 3. Created a producer through kafka producer function to send message.
 4. Set up a consumer that would parse and read the message.  
 
+# [Project 11: Community Project-Creating a complete pipeline](https://github.com/MrRicardoAcuna7/data_engineering_zoomcamp)
+1. Created docker-compose file for postgres, pgadim communicating each other.
+2. Set up postgres to mount in local the data. 
+3. Python script that would iterate in chunk data and push to postgres.
+4. Created a docker-compose to run the python with parameters. 
+
