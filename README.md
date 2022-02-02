@@ -2,7 +2,7 @@
 
 Portfolio containing projects in Python, SQL, KDB+/Q and Power Bi.
 
-# [Project 1: Analyze data using kdb q+ and embedpy](https://github.com/MrRicardoAcuna7/KDBQ_analyze_videgames_sales_data)
+# [Project 1: Analyze data using KDB+/Q and embedpy](https://github.com/MrRicardoAcuna7/KDBQ_analyze_videgames_sales_data)
 Analyze videogame sales data from CSV to KDB+/Q language and visualize result
 
 1. Import data from CSV file to KDB+ as KDB+ table.
@@ -63,10 +63,10 @@ Simple project in Python using Flask library, that supports REST API methods usi
 3. Get values by different fields.  
 
 # [Project 9: KDB IPC - Read from sql connection and get output tables through an ipc connection](https://github.com/MrRicardoAcuna7/KDB-QIPC)
-1. Open KDB ODBC connection using DSN and execute queries.  
-2. Set up kdb messages and permissions for ipc.  
+1. Open KDB+ ODBC connection using DSN and execute queries.  
+2. Set up KDB+ messages and permissions for IPC.  
 3. Create the function to be called.
-4. In the client side, execute async ipc call and store the output as a kdb table in a local directory.  
+4. On the client side, execute async ipc call and store the output as a KDB+ table in a local directory.  
 
 # [Project 10: KAFKA Sending messages from producer to consumer](https://github.com/MrRicardoAcuna7/Kafka_Python_Code)
 1. Runs kafka and zookeper in a docker container.  
