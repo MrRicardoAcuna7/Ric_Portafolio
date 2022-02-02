@@ -1,4 +1,4 @@
-# Ricardo's Portafolio - Data Analyst portafolio
+# Ricardo's Portfolio - Data Analyst portfolio
 
 Portafolio containing projects in Python, SQL, KDB and Power Bi.
 
